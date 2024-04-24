@@ -10,16 +10,6 @@ namespace YourNamespace
     {
     }
 
-    struct YourStruct
-    {
-    }
-
-    interface IYourInterface
-    {
-    }
-
-    delegate int YourDelegate();
-
     enum YourEnum
     {
     }
